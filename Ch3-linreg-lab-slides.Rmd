@@ -1,6 +1,6 @@
 ---
 title: "ISLR2 Chapter 3 - Linear Regression Lab Exercises"
-author: R.J. Serrano
+author: Ricardo J. Serrano
 date: January 6, 2021
 output: slidy_presentation
 ---
@@ -13,7 +13,11 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE,
 
 ## Lab: Linear Regression
 
-- Simple, yet powerful and easy to explain
+- Supervised learning (target)
+
+- OLS (Ordinary Least Squares)
+
+- Simple, yet extremely useful and easy to explain
 
 ![](img/lr_1.jpg)
 

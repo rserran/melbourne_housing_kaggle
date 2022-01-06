@@ -17,3 +17,5 @@ References:
 - How to interpret the F-test of Overall Significance in Regression Analysis: https://statisticsbyjim.com/regression/interpret-f-test-overall-significance-regression/
 
 - ISLR Chapter 3 - Linear Regression: https://www.bijenpatel.com/guide/islr/linear-regression/
+
+- Linear Regression, clearly explained!! (Youtube): https://youtu.be/nk2CQITm_eo
