@@ -15,3 +15,5 @@ References:
 - How to interpret Regression Analysis Results: P-values and Coefficients: https://blog.minitab.com/en/adventures-in-statistics-2/how-to-interpret-regression-analysis-results-p-values-and-coefficients
 
 - How to interpret the F-test of Overall Significance in Regression Analysis: https://statisticsbyjim.com/regression/interpret-f-test-overall-significance-regression/
+
+- ISLR Chapter 3 - Linear Regression: https://www.bijenpatel.com/guide/islr/linear-regression/
