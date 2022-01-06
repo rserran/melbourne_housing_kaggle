@@ -19,3 +19,5 @@ References:
 - ISLR Chapter 3 - Linear Regression: https://www.bijenpatel.com/guide/islr/linear-regression/
 
 - Linear Regression, clearly explained!! (Youtube): https://youtu.be/nk2CQITm_eo
+
+- Understanding Diagnostic Plots for Linear Regression Analysis: https://data.library.virginia.edu/diagnostic-plots/
