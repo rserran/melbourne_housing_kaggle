@@ -1,6 +1,6 @@
 # Melbourne Housing Dataset - Kaggle
 
-This repository includes files related to the ISLR2 Chapter 3 - Linear Regression lab exerecises slides
+This repository includes files related to the ISLR2 Chapter 3 - Linear Regression lab exercises slides
 
 References:
 
@@ -21,3 +21,5 @@ References:
 - Linear Regression, clearly explained!! (Youtube): https://youtu.be/nk2CQITm_eo
 
 - Understanding Diagnostic Plots for Linear Regression Analysis: https://data.library.virginia.edu/diagnostic-plots/
+
+- Knn regression example using tidymodels (https://ubc-dsci.github.io/introduction-to-datascience/regression1.html#evaluating-on-the-test-set)
