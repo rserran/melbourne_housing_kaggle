@@ -2,7 +2,10 @@
 title: "ISLR2 Chapter 3 - Linear Regression Lab Exercises"
 author: Ricardo J. Serrano
 date: January 6, 2021
-output: slidy_presentation
+output: 
+     slidy_presentation:
+          highlight: tango
+          theme: flatly
 ---
 
 ```{r setup, include=FALSE}
